@@ -1,0 +1,220 @@
+User: give the weather forecasting for next 7 days in Mysore and what is the stock price for tcs 
+Bot: Here are the answers to your query:
+
+**Weather Forecast for Mysore (next 7 days):**
+
+* Sat, 26 Jul 2025: 20.9°C
+* Sun, 27 Jul 2025: 21.1°C
+* Mon, 28 Jul 2025: 22.1°C
+* Tue, 29 Jul 2025: 22.5°C
+* Wed, 30 Jul 2025: 22.9°C
+* Thu, 31 Jul 2025: 21.9°C
+* Fri, 01 Aug 2025: 23.2°C
+
+**TCS Stock Price: ₹3135.8**
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: is it raining in Malavalli and explain cloud computing 
+Bot: Here are the answers to your query:
+
+**Is it raining in Malavalli?:**
+Yes, there is patchy rain nearby with a temperature of 22.3°C.
+
+**What is Cloud Computing?:**
+Cloud computing is a model of delivering computing services over the internet. It allows users to access and store data, applications, and resources on remote servers, rather than on their local devices. This enables on-demand access, scalability, and flexibility, while reducing the need for local infrastructure and maintenance. Think of it like storing and accessing your files on Google Drive or Dropbox, instead of on your computer's hard drive.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: False
+
+User: is it raining in Bangalore and what is the stock price for oracle
+
+Bot: Here are the answers to your query:
+
+**Weather in Bangalore:** 24.3°C, Partly cloudy (no rain)
+
+**Oracle Stock Price:** $245.12
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: Edited
+
+User: summarize everything 
+Bot: Here are the answers to your query:
+
+**Weather in Bangalore:** 24.3°C, Partly cloudy (no rain)
+
+**Oracle Stock Price:** $245.12
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: what is the weather temperature in Bangalore and explain aws
+Bot: Here are the answers to your queries:
+
+**Weather in Bangalore:** The current temperature in Bangalore is 23.2°C with partly cloudy skies.
+
+**AWS (Amazon Web Services):** AWS is a cloud computing platform that provides a wide range of services including computing power, storage, databases, analytics, machine learning, and more. It allows individuals and businesses to build, deploy, and manage applications and workloads in the cloud, reducing the need for on-premises infrastructure and providing scalability, flexibility, and cost savings.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: which city weather i asked previously
+Bot: You asked about the weather in Bangalore previously.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: what is the role aws 
+Bot: The role of AWS (Amazon Web Services) is to provide a cloud computing platform that enables individuals and businesses to build, deploy, and manage applications and workloads in the cloud, offering scalability, flexibility, and cost savings.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: give the weather forecasting for next 7 days in bangalore and what is the stock price for tcs
+Bot: Here are the answers to your latest query:
+
+**Weather Forecast for Bangalore (next 7 days):**
+Sat, 26 Jul 2025: 12.5°C
+Sun, 27 Jul 2025: 11.6°C
+Mon, 28 Jul 2025: 10.0°C
+Tue, 29 Jul 2025: 11.0°C
+Wed, 30 Jul 2025: 10.6°C
+Thu, 31 Jul 2025: 11.9°C
+Fri, 01 Aug 2025: 14.4°C
+
+**TCS Stock Price:** ₹3135.8
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: which company stock price i asked before 
+Bot: You asked about the stock price of TCS (Tata Consultancy Services) before.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: is it raining in Mandya and explain cloud computing 
+Bot: Here's the answer to your latest query:
+
+**Weather in Mandya:** Yes, it's experiencing patchy rain nearby with a temperature of 21.5°C.
+
+**Cloud Computing:** Cloud computing is a model of delivering computing services over the internet, where resources such as servers, storage, databases, software, and applications are provided as a service to users on-demand. This allows for scalability, flexibility, and cost savings.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: False
+
+User: is it rainig in London
+Bot: **Weather in London:** 20.1°C, Partly cloudy
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: Edited
+
+User: is it raining in Mandya and explain cloud computing 
+Bot: **Weather in London:** 20.1°C, Partly cloudy
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: what is the weather temperature in Bangalore and what is the stock price for oracle 
+Bot: Here are the answers:
+
+The weather temperature in Bangalore is 21.1°C, partly cloudy. 
+The current stock price for Oracle is $245.12.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: which city weather we discus above 
+Bot: We discussed Bangalore's weather above.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: give the weather forecasting for next 7 days in Bangalore and what is the stock price for tcs
+Bot: Here are the answers:
+
+The 7-day weather forecast for Bangalore is: 
+Sat, 26 Jul 2025: 21.1°C
+Sun, 27 Jul 2025: 21.6°C
+Mon, 28 Jul 2025: 22.0°C
+Tue, 29 Jul 2025: 22.6°C
+Wed, 30 Jul 2025: 22.7°C
+Thu, 31 Jul 2025: 21.8°C
+Fri, 01 Aug 2025: 23.2°C
+
+The current stock price for TCS is ₹3135.8.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: what is the weather temperature in Bangalore and explain aws
+Bot: The current weather temperature in Bangalore is 21.3°C, partly cloudy.
+
+Now, about AWS: AWS (Amazon Web Services) is a cloud computing platform that provides a broad set of infrastructure services, including computing power, storage, databases, analytics, machine learning, and more. It allows users to build, deploy, and manage applications and workloads in a scalable, flexible, and secure manner. Think of it like a virtual IT department that can be accessed on-demand, without the need for physical infrastructure or maintenance.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: what is the weather temperature in Bangalore and explain aws
+Bot: The current weather temperature in Bangalore is 21.3°C, partly cloudy.
+
+Now, about AWS: AWS (Amazon Web Services) is a cloud computing platform that provides a broad set of infrastructure services, including computing power, storage, databases, analytics, machine learning, and more. It allows users to build, deploy, and manage applications and workloads in a scalable, flexible, and secure manner. Think of it like a virtual IT department that can be accessed on-demand, without the need for physical infrastructure or maintenance.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: True
+
+User: what is the weather temperature in Bangalore and explian aws
+Bot: The current weather temperature in Bangalore is 26.1°C and it's partly cloudy. 
+
+Regarding AWS, it stands for Amazon Web Services, which is a cloud computing platform that provides a wide range of services including computing power, storage, databases, analytics, machine learning, and more. It allows businesses to build and deploy scalable, secure, and reliable applications and workloads in the cloud.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: False
+
+User: what is the weather temperature in Bangalore and explian cloud
+Bot: The current weather temperature in Bangalore is 26.1°C and it's partly cloudy. 
+
+Partly cloudy means the sky is partially covered with clouds, but there are still some clear areas where the sun can be seen. The clouds may be scattered or gathered in certain areas, but they don't cover the entire sky. This type of weather is often associated with mild temperatures and gentle breezes.
+
+---
+👤 *Awaiting human approval...*
+(Approve or Reject below)
+Approved: Edited
+
